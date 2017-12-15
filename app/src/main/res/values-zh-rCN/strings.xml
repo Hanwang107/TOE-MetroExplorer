@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TOE</string>
+    <string name="near_station_button_text">附近地铁站</string>
+    <string name="select_station_button_text">选择地铁站</string>
+    <string name="favorite_landmark_button_text">收藏</string>
+    <string name="action_search">搜索地铁站</string>
+    <string name="add_to_favorite">添加到收藏</string>
+    <string name="share">分享</string>
+    <string name="fav_landmarks">收藏</string>
+    <string name="get_direction">查看路线</string>
+    <string name="yelp_link">了解更多</string>
+    <string name="no_network_ability">当前没有网络，请连接网络后再尝试！</string>
+    <string name="ask_for_permission">请开启位置信息权限再尝试!</string>
+    <string name="permission_declined">请允许TOE访问您的位置信息!</string>
+    <string name="permission_granted">获取位置信息成功</string>
+    <string name="stationNotLoaded">没有地铁站信息</string>
+    <string name="remove_from_favorite">取消收藏</string>
+    <string name="distance_unit">英里</string>
+    <string name="no_landmarks">没有找到景点信息</string>
+    <string name="no_station_found">您的附近没有地铁站</string>
+    <string name="no_location_detected">请开启位置信息设置!</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TOE</string>
+    <string name="near_station_button_text">最近地鐵站</string>
+    <string name="select_station_button_text">自選地鐵站</string>
+    <string name="favorite_landmark_button_text">我的最愛</string>
+    <string name="action_search">站名搜索...</string>
+    <string name="add_to_favorite">加到我的最愛</string>
+    <string name="share">分享</string>
+    <string name="fav_landmarks">我的最愛</string>
+    <string name="get_direction">查看路線</string>
+    <string name="yelp_link">了解更多</string>
+    <string name="no_network_ability">您目前沒有網路連線能力!請連結至WiFi或是行動網路後再試一次</string>
+    <string name="ask_for_permission">請至設定裡開啟"位置"權限後再試一次</string>
+    <string name="permission_declined">無法取得位置權限！</string>
+    <string name="permission_granted">取得位置權限！</string>
+    <string name="stationNotLoaded">無法讀取地鐵站資訊</string>
+    <string name="remove_from_favorite">從我的最愛中移出</string>
+    <string name="distance_unit">英里</string>
+    <string name="no_landmarks">沒有找到景點信息</string>
+    <string name="no_station_found">您的附近沒有地鐵站</string>
+    <string name="no_location_detected">請開啟位置信息設定!</string>
+
+</resources>

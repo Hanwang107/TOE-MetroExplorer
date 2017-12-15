@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+
+    <color name="primary">#D84315</color>
+    <color name="primary_dark">#BF360C</color>
+    <color name="accent">#E22F84</color>
+    <color name="light_gray">#FAFAFA</color>
+
+
+    <color name="metro_red_line">#F44336</color>
+    <color name="metro_blue_line">#2196F3</color>
+    <color name="metro_silver_line">#9E9E9E</color>
+    <color name="metro_orange_line">#FF9800</color>
+    <color name="metro_green_line">#4CAF50</color>
+    <color name="metro_yellow_line">#FFEB3B</color>
+    <color name="metro_no_line">#FFFFFF</color>
+</resources>

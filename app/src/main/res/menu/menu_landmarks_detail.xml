@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/add_to_favorite"
+        android:id="@+id/favorite_landmark"
+        android:onClick="addLandmarkPressed"
+        compat:showAsAction="ifRoom"
+        />
+
+    <item android:title="@string/share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:onClick="sharePressed"
+        compat:showAsAction="ifRoom"
+        />
+
+</menu>
